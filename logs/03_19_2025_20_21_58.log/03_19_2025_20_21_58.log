@@ -1,0 +1,6 @@
+[2025-03-19 20:22:03,158] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-03-19 20:22:03,163] 107 dagshub - INFO - Accessing as Adroit10
+[2025-03-19 20:22:03,541] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Adroit10/Network_Security "HTTP/1.1 200 OK"
+[2025-03-19 20:22:03,882] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-03-19 20:22:03,884] 107 dagshub - INFO - Initialized MLflow to track repo "Adroit10/Network_Security"
+[2025-03-19 20:22:03,884] 107 dagshub - INFO - Repository Adroit10/Network_Security initialized!
